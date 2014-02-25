@@ -10,7 +10,7 @@ h1, h2, p {
 	font-family: arial;
 }
 
-.panel{
+.whiteboard{
     width:800px;
     height:300px;
     position:absolute;
@@ -28,4 +28,9 @@ h1, h2, p {
 #bs {
 	color: red;
 	font-size:1.5em;
+}
+
+.copyright {
+	color:#D6D6D6;
+
 }
