@@ -1,0 +1,31 @@
+html { 
+  background: url('/assets/whiteboard.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1, h2, p {
+	font-family: arial;
+}
+
+.panel{
+    width:800px;
+    height:300px;
+    position:absolute;
+    left:50%;
+    top:50%;
+    margin:-250px 0 0 -400px;
+    text-align: center;
+    background-color:transparent;
+}
+
+.hid {
+	display:none;
+}
+
+#bs {
+	color: red;
+	font-size:1.5em;
+}
